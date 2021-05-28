@@ -8,3 +8,5 @@ During exploratory testing I've discovered several bugs out of my main focus, in
 <p>
 I was trying to implement automation using PyCharm + Selenium but wasn't able to go through your network login. So instead I was using TestComplete from Smartbear.
 I assume that all my current test cases might be automated, some automated test cases you can find <a href="https://github.com/sqaFred/Blog/raw/main/Bblog.zip">here<a/>
+<p>
+Hope to get in touch with you soon!
